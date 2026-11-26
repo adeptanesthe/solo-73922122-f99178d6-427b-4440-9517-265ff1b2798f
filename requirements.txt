@@ -1,0 +1,6 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30
+scipy>=1.11
+numpy>=1.26
+SQLAlchemy>=2.0
+pydantic>=2.6
